@@ -1,0 +1,7 @@
+C:\Users\pmang\source\repos\TechnicalQuestion4\TechnicalQuestion4\obj\Debug\TechnicalQuestion4.csprojResolveAssemblyReference.cache
+C:\Users\pmang\source\repos\TechnicalQuestion4\TechnicalQuestion4\obj\Debug\TechnicalQuestion4.csproj.CoreCompileInputs.cache
+C:\Users\pmang\source\repos\TechnicalQuestion4\TechnicalQuestion4\bin\Debug\TechnicalQuestion4.exe.config
+C:\Users\pmang\source\repos\TechnicalQuestion4\TechnicalQuestion4\bin\Debug\TechnicalQuestion4.exe
+C:\Users\pmang\source\repos\TechnicalQuestion4\TechnicalQuestion4\bin\Debug\TechnicalQuestion4.pdb
+C:\Users\pmang\source\repos\TechnicalQuestion4\TechnicalQuestion4\obj\Debug\TechnicalQuestion4.exe
+C:\Users\pmang\source\repos\TechnicalQuestion4\TechnicalQuestion4\obj\Debug\TechnicalQuestion4.pdb
